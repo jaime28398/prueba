@@ -1,0 +1,58 @@
+*{
+	margin: all;
+}
+nav{
+	float: right;
+	display: inline-block;
+
+}
+header figure{
+	display: inline-block;
+	float: left;
+}
+header{
+	background-color: red;
+	height: 100px;
+}
+.barrera{
+	clear: both;
+}
+li{
+	display: inline-block;
+	margin-left: 30px;
+}
+#imgproyecto1{
+	float: left;
+}
+#textoproyecto1{
+	float: right;
+	width: 50%;
+}
+#imgproyecto2{
+	float: left;
+}
+#textoproyecto2{
+	float: right;
+	width: 50%;
+}
+#imgproyecto3{
+	float: left;
+}
+#textoproyecto3{
+	float: right;
+	width: 50%;
+}
+#imgproyecto4{
+	float: left;
+}
+#textoproyecto4{
+	float: right;
+	width: 50%;
+}
+#proyectos{
+	border: 1px solid green;
+}
+article{
+	border: 1px solid green;
+	border-radius: 5px;
+}
